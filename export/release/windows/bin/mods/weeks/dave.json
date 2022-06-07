@@ -1,0 +1,48 @@
+{
+	"storyName": "Dave's fun backyard rerun!",
+	"hideFreeplay": false,
+	"weekBackground": "dave",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Backyard",
+			"dave",
+			[
+				0,
+				173,
+				253
+			]
+		],
+		[
+			"Frenzy",
+			"dave",
+			[
+				146,
+				233,
+				253
+			]
+		],
+		[
+			"Multidimensional",
+			"3ddave",
+			[
+				55,
+				0,
+				20
+			]
+		]
+	],
+	"weekName": "daveweek"
+}

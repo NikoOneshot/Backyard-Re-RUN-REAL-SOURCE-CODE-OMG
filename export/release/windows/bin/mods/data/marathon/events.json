@@ -1,0 +1,119 @@
+{
+	"song": {
+		"speed": 2.8,
+		"stage": "farmlandnight",
+		"player1": "bf",
+		"player2": "davesplitathon",
+		"player3": null,
+		"events": [
+			[
+				230409.836065575,
+				[
+					[
+						"Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				278267.862666255,
+				[
+					[
+						"Change Scroll Speed",
+						"1.1",
+						"0.5"
+					]
+				]
+			],
+			[
+				279116.919270029,
+				[
+					[
+						"Change Character",
+						"1",
+						"Bambi"
+					]
+				]
+			],
+			[
+				279125.763609651,
+				[
+					[
+						"Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				324367.073925148,
+				[
+					[
+						"Blammed Lights",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				333423.677698734,
+				[
+					[
+						"Blammed Lights",
+						"0",
+						""
+					]
+				]
+			],
+			[
+				428904.655119088,
+				[
+					[
+						"Change Character",
+						"1",
+						"dave"
+					]
+				]
+			],
+			[
+				428922.343798333,
+				[
+					[
+						"Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				557324.466439843,
+				[
+					[
+						"Change Character",
+						"1",
+						"Bambi"
+					]
+				]
+			],
+			[
+				557330.362666258,
+				[
+					[
+						"Flash Camera",
+						"1",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 183,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Marathon"
+	}
+}
