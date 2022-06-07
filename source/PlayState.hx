@@ -1320,7 +1320,7 @@ class PlayState extends MusicBeatState
                     case 'backyard' | 'frenzy' | 'multidimensional':
                        startDialogue(dialogueJson);
 
-
+// bathcat was here I swear to god if this doesnt work im gonna blow my brains out, you can judge my code all above lmao.
 				default:
 					startCountdown();
 			}
